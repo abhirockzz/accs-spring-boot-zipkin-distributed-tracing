@@ -1,0 +1,8 @@
+	{
+	  "memory": "2G",
+	  "instances": 1,
+	  "environment":{
+		"INVENTORY_SERVICE":"<INVENTORY_APP_URL>",
+		"ZIPKIN":"<ZIPKIN_URL>"
+	  }
+	}

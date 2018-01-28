@@ -1,0 +1,7 @@
+	{
+	  "memory": "2G",
+	  "instances": 1,
+	  "environment":{
+		"ZIPKIN":"<ZIPKIN_URL>"
+	  }
+	}
